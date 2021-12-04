@@ -9,6 +9,7 @@ wallpaper="$HOME/Pictures/gruvbox.jpg"
 
 picom -CGb &
 bdwmb -q &
+pcmanfm -d &
 calcurse --daemon &
 feh --bg-tile "$wallpaper" &
 xautolock -time 10 -locker /usr/local/bin/dwmlocker &

@@ -7,6 +7,9 @@ firefox
 galculator
 gtk-engine-murrine
 gvfs
+gvfs-mtp
+gvfs-gphoto2
+gvfs-afc
 kitty
 lxappearance-gtk3
 micro
@@ -31,4 +34,5 @@ xclip
 xcursor-neutral
 xed
 xorg-xsetroot
+udisks2
 zathura
