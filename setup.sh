@@ -175,7 +175,7 @@ git clone https://github.com/TruncatedDinosour/bdwmb
 cd bdwmb
 make full
 make config
-cd ..
+cd
 
 chmod -R +x ~/.scripts 
 echo "export QT_QPA_PLATFORMTHEME=gtk2" >> ~/.profile
