@@ -1,8 +1,5 @@
 acpi
 arandr
-archlinux-xdg-menu
-celluloid
-dex
 dunst
 feh
 file-roller
@@ -10,10 +7,10 @@ firefox
 galculator
 gtk-engine-murrine
 gvfs
-jq
 kitty
 lxappearance-gtk3
 micro
+mpv
 nm-connection-editor
 nitrogen
 otf-font-awesome
@@ -26,13 +23,11 @@ rofi
 samba
 scrot
 seahorse
-sysstat
 pcmanfm
 vim
 xbindkeys
 xclip
 xcursor-neutral
-xdg-user-dirs-gtk
 xed
 xorg-xsetroot
 zathura
