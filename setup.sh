@@ -119,6 +119,7 @@ yay -S mailspring   --noconfirm --needed
 
 # Theming
 yay -S gruvbox-dark-gtk   --noconfirm --needed
+yay -S nerd-fonts-hack --noconfirm --needed
 
 # Touchpad tap to click
 
