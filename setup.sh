@@ -161,8 +161,6 @@ cd bdwmb
 make full
 make config
 cd ..
-rm -rf bdwmb
-
 
 # install Suckless apps
 chmod -R +x ~/Suckless
