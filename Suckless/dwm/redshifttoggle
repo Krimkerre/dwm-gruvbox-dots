@@ -10,7 +10,7 @@ main() {
         xrandr --output "$1" --gamma 1.0:1.0:1.0 --brightness 1.0
         rm -f /tmp/redshifttoggle.lock
     else
-        xrandr --output "$1" --gamma 1.91000000000000000000:1.46000000000000000000:1 --brightness 0.9
+        xrandr --output "$1" --gamma 1.20000000000000000000:1.20000000000000000000:1 --brightness 0.75
         touch /tmp/redshifttoggle.lock
     fi
 }
