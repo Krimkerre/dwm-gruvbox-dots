@@ -159,6 +159,7 @@ cp -R .xprofile ~/.xprofile
 git clone https://github.com/TruncatedDinosour/bdwmb
 cd bdwmb
 make full
+make config
 cd ..
 rm -rf bdwmb
 
