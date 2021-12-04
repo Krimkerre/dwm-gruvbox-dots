@@ -1,0 +1,8 @@
+pulseaudio-bluetooth
+bluez
+bluez-libs
+bluez-utils
+bluez-plugins
+blueman
+bluez-tools
+bluez-cups

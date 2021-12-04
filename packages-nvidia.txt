@@ -1,0 +1,14 @@
+nvidia
+nvidia-cg-toolkit
+nvidia-settings
+nvidia-utils
+lib32-nvidia-cg-toolkit
+lib32-nvidia-utils
+lib32-opencl-nvidia
+opencl-nvidia
+cuda
+ffnvcodec-headers
+lib32-libvdpau
+libxnvctrl
+pycuda-headers
+python-pycuda
