@@ -155,12 +155,6 @@ cp -R .bash_profile ~/.bash_profile
 cp -R .xinitrc ~/.xinitrc
 cp -R .xprofile ~/.xprofile
 
-# bdwmb
-git clone https://github.com/TruncatedDinosour/bdwmb
-cd bdwmb
-make full
-make config
-cd ..
 
 # install Suckless apps
 chmod -R +x ~/Suckless
@@ -169,6 +163,14 @@ cd Suckless
 ./compile
 
 cd 
+
+
+# bdwmb
+git clone https://github.com/TruncatedDinosour/bdwmb
+cd bdwmb
+make full
+make config
+cd ..
 
 chmod -R +x ~/.scripts 
 echo "export QT_QPA_PLATFORMTHEME=gtk2" >> ~/.profile
