@@ -145,7 +145,7 @@ cp -R .config/* ~/.config/
 cp -R .icons/* ~/.icons/
 cp -R .scripts/* ~/.scripts/
 cp -R .vim/* ~/.vim/
-cp -R Pictures/* ~/Pictures/
+cp -R Pictures/gruvbox.jpg ~/Pictures/gruvbox.jpg
 cp -R Suckless/* ~/Suckless/
 cp -R .gtkrc-2.0 ~/.gtkrc-2.0
 cp -R .vimrc ~/.vimrc
