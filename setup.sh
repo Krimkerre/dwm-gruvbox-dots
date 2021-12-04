@@ -179,5 +179,5 @@ pacman -Rsn $(pacman -Qdtq) --noconfirm
 
 clear
 echo "##############################################################################"
-echo "### Installation Is Complete, Please Reboot And Have Fun                   ###"
+echo "### Installation Is Complete, run 'startx' to start DWM                    ###"
 echo "##############################################################################"
