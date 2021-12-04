@@ -116,6 +116,10 @@ yay -S qt5-styleplugins   --noconfirm --needed
 
 # Internet
 yay -S mailspring   --noconfirm --needed
+yay -S kotatogram-bin --noconfirm --needed
+
+# Music streaming
+yay -S ncspot-bin --noconfirm --needed
 
 # Theming
 yay -S gruvbox-dark-gtk   --noconfirm --needed
