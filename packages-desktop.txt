@@ -34,4 +34,5 @@ xclip
 xcursor-neutral
 xdg-user-dirs-gtk
 xed
+xorg-xsetroot
 zathura
