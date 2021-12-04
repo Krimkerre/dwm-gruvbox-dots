@@ -13,6 +13,7 @@ micro
 mpv
 nm-connection-editor
 nitrogen
+noto-fonts
 otf-font-awesome
 paprefs
 picom
